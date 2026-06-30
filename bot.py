@@ -11,7 +11,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = "8523326826:AAER43UPhRIZleTyd1IrJRoTPNWrJ3OY7Og"
+TOKEN = "8602338004:AAGcoLuP24X_IyFeh2bXkcBEjIQlnoqD9vg"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     btn = KeyboardButton(
